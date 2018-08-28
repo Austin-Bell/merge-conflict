@@ -7,3 +7,11 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+  # Data Analysis
+  - skill: Data Analysis
+  description: Used Python PyPlot to analyze viewership of various web applications.
+  
+  # Java Web Apps
+  - skill: Java Web Apps
+  description: Using Java frameworks, created and integrated multiple web apps on central server.
